@@ -53,7 +53,7 @@ components:
             - type: Text
               hasDropCap: false
               content: |-
-                # Bem-vindo!!@--# à Documental
+                # Bem-vindo!!@--# à Documental$$$
 
                 #### Sua plataforma de software livre para a criação de geo-narrativas.
         column2:
@@ -76,7 +76,7 @@ components:
               link:
                 url: https://documental.xyz/docs
                 target: _blank
-                text: Guia de Instalação & Uso
+                text: Guia de Instalação & Uso!!!
               icon: ''
               size: ''
 ---
